@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ToolUtils.setText((TextView) findViewById(R.id.hellow),"嘿嘿！很happy 人挪活人挪活");
+        ToolUtils.setText((TextView) findViewById(R.id.hellow),"嘿嘿！很happy 人挪");
     }
 }
